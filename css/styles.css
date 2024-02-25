@@ -1,0 +1,31 @@
+body {background-color: rgb(6, 179, 237);
+    border-style: dotted;
+border-color:black ;
+padding: 10px; ;
+margin: 5px;
+} 
+nav{ font-style: oblique;
+     text-decoration: dotted;
+    text-shadow: 8cap;
+    text-align: center;
+    background-color: rgba(91, 36, 36, 0.971);}
+
+.center { border: 5px solid #555;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px; height: 250px;
+  }
+  .buttoncolor {background-color: crimson; border: 4px;}
+  p { border-radius: 5px; background-color: rgba(122, 48, 25, 0.816);}
+  H1{border-style: double;
+background-color: crimson;}
+h2{ text-align: center;
+border-radius: 8px;
+background-color: coral;}
+table{border: 8px;
+border-style: inherit;
+background-color: coral;}
+h3 { text-align: center
+    ;border: 8px;
+background-color: crimson;}
